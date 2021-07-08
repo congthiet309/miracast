@@ -1,0 +1,11 @@
+{
+  "isShowInterstitial": true,
+  "isShowSubFirst": false,
+  "isPremiumContent": true,
+  "isSubscription":true,
+  "isFreeAds": true,
+  "isUsingImageLocal": true,
+  "secret": "c8593f0450404de395832bd771bd145d",
+  "videoAdsSecond": 20,
+  "isHidePhone": false
+}

@@ -1,0 +1,9 @@
+			Miracast®
+What devices does Screen Share Miracast support?
+For the moment, we fully support for: - Chromecast - Google Chromecast TV - Chromecast built-in TV - LG TV - Samsung TV - Roku TV - Amazon Fire TV - Android TV - Any TV or Device with Browser
+
+Why the mirroring delays are different between TVs?
+The delay between your devices (iPhone, iPad) and your TVs depends on multiple causes: network, devices' cpu, tv's firmware or nature of streaming.
+
+How can I reduce the delay?
+You can try connect your iDevice (iphone, ipad) and your TVs to a different wifi network (e.g: 2G or 5G);
