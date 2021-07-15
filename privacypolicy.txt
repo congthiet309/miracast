@@ -1,11 +1,11 @@
-                                        Privacy Policy
-HTTL built the Screen Share Miracast app as a Commercial app. This SERVICE is provided by KhaTam Inc and is intended for use as is.
+               Privacy Policy
+HTTL built the Miracast app as a Commercial app. This SERVICE is provided by HTTL Inc and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Chromecast unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Miracast unless otherwise defined in this Privacy Policy.
 
 Information Collection and Use
 
@@ -47,12 +47,31 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 Copyrights
 
-KhaTam App Info has no mechanism to check any copyrights or other IP rights, on downloaded files/content over the Internet. It is user's (your) resposibility to check if the content you want to download is protected under any copyrights and make sure that you are allowed to download, copy and/or share the content. If you are a copyright owner and/or holder of any content that is downloadable by this application and you want this to be blocked, please contact us over 'truongkhatam94@gmail.com', we will immediately ban access to your content(s) over this application.
+Miracast App Info has no mechanism to check any copyrights or other IP rights, on downloaded files/content over the Internet. It is user's (your) resposibility to check if the content you want to download is protected under any copyrights and make sure that you are allowed to download, copy and/or share the content. If you are a copyright owner and/or holder of any content that is downloadable by this application and you want this to be blocked, please contact us over 'appmiracast@gmail.com', we will immediately ban access to your content(s) over this application.
 
 Changes to This Privacy Policy
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
+Miracast Apps includes an optional auto-renewable subscription.
+
+Subscription Price:
+
+- 2.99$ for 1 week
+
+- 4.99 $ for 1 month
+
+- 7.99$ for 1 year
+
+- 10.99$ for Lifetime
+
+• Check in app for exact pricing in your region
+
+• Payment will be charged to your iTunes account at confirmation of purchase and will automatically renew (at the duration/price selected) unless auto-renew is turned off at least 24 hours before the end of the current period.
+
+• Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+
+• You can manage your subscription and/or turn off auto-renewal by going to your iTunes Account Settings, but refunds will not be given for any unused portion of the term.
 Contact Us
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at appmiracast@gmail.com.
